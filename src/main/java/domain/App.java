@@ -24,6 +24,7 @@ public class App {
                     OutputView.printId(wiseSaying);
                     break;
                 case "목록" :
+                    OutputView.printWiseSayings(wiseSayings);
                     break;
                 case "삭제" :
                     break;
